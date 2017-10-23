@@ -1,10 +1,11 @@
-[21:31:20] [Server thread/INFO]: Loading properties
-[21:31:20] [Server thread/INFO]: Default game type: SURVIVAL
-[21:31:20] [Server thread/INFO]: Generating keypair
-[21:31:21] [Server thread/INFO]: Starting Minecraft server on 192.168.1.82:25565
-[21:31:21] [Server thread/INFO]: Using default channel type
-[21:31:21] [Server thread/WARN]: **** FAILED TO BIND TO PORT!
-[21:31:21] [Server thread/WARN]: The exception was: java.net.BindException: Cannot assign requested address: bind
-[21:31:21] [Server thread/WARN]: Perhaps a server is already running on that port?
-[21:31:21] [Server thread/INFO]: Stopping server
-[21:31:21] [Server Shutdown Thread/INFO]: Stopping server
+[21:59:32] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[21:59:32] [Server thread/INFO]: Loading properties
+[21:59:32] [Server thread/INFO]: Default game type: SURVIVAL
+[21:59:32] [Server thread/INFO]: Generating keypair
+[21:59:32] [Server thread/INFO]: Starting Minecraft server on 192.168.1.32:25565
+[21:59:32] [Server thread/INFO]: Using default channel type
+[21:59:33] [Server thread/INFO]: Preparing level "SBS Gen II 2"
+[21:59:34] [Server thread/INFO]: Loaded 488 advancements
+[21:59:34] [Server thread/INFO]: Preparing start region for level 0
+[21:59:35] [Server thread/INFO]: Preparing spawn area: 62%
+[21:59:35] [Server thread/INFO]: Done (1.798s)! For help, type "help" or "?"
