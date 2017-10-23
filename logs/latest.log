@@ -1,71 +1,10 @@
-[20:13:00] [Server thread/INFO]: Starting minecraft server version 1.12.2
-[20:13:00] [Server thread/INFO]: Loading properties
-[20:13:00] [Server thread/INFO]: Default game type: SURVIVAL
-[20:13:00] [Server thread/INFO]: Generating keypair
-[20:13:00] [Server thread/INFO]: Starting Minecraft server on 192.168.1.82:25565
-[20:13:00] [Server thread/INFO]: Using default channel type
-[20:13:00] [Server thread/INFO]: Preparing level "SBS Gen II 2"
-[20:13:01] [Server thread/INFO]: Loaded 488 advancements
-[20:13:01] [Server thread/INFO]: Preparing start region for level 0
-[20:13:01] [Server thread/INFO]: Done (1.083s)! For help, type "help" or "?"
-[20:15:29] [Netty Server IO #1/ERROR]: io.netty.handler.codec.EncoderException: String too big (was 33168 bytes encoded, max 32767)
-[20:15:31] [Netty Server IO #3/ERROR]: io.netty.handler.codec.EncoderException: String too big (was 33168 bytes encoded, max 32767)
-[20:15:31] [Netty Server IO #5/ERROR]: io.netty.handler.codec.EncoderException: String too big (was 33168 bytes encoded, max 32767)
-[20:15:32] [Netty Server IO #7/ERROR]: io.netty.handler.codec.EncoderException: String too big (was 33168 bytes encoded, max 32767)
-[20:15:32] [Netty Server IO #1/ERROR]: io.netty.handler.codec.EncoderException: String too big (was 33168 bytes encoded, max 32767)
-[20:15:33] [Netty Server IO #3/ERROR]: io.netty.handler.codec.EncoderException: String too big (was 33168 bytes encoded, max 32767)
-[20:15:33] [Netty Server IO #5/ERROR]: io.netty.handler.codec.EncoderException: String too big (was 33168 bytes encoded, max 32767)
-[20:15:33] [Netty Server IO #7/ERROR]: io.netty.handler.codec.EncoderException: String too big (was 33168 bytes encoded, max 32767)
-[20:15:34] [Netty Server IO #1/ERROR]: io.netty.handler.codec.EncoderException: String too big (was 33168 bytes encoded, max 32767)
-[20:15:34] [Netty Server IO #3/ERROR]: io.netty.handler.codec.EncoderException: String too big (was 33168 bytes encoded, max 32767)
-[20:15:34] [Netty Server IO #5/ERROR]: io.netty.handler.codec.EncoderException: String too big (was 33168 bytes encoded, max 32767)
-[20:15:35] [Netty Server IO #7/ERROR]: io.netty.handler.codec.EncoderException: String too big (was 33168 bytes encoded, max 32767)
-[20:15:35] [Netty Server IO #1/ERROR]: io.netty.handler.codec.EncoderException: String too big (was 33168 bytes encoded, max 32767)
-[20:15:35] [Netty Server IO #3/ERROR]: io.netty.handler.codec.EncoderException: String too big (was 33168 bytes encoded, max 32767)
-[20:15:36] [Netty Server IO #5/ERROR]: io.netty.handler.codec.EncoderException: String too big (was 33168 bytes encoded, max 32767)
-[20:15:36] [Netty Server IO #7/ERROR]: io.netty.handler.codec.EncoderException: String too big (was 33168 bytes encoded, max 32767)
-[20:15:36] [Netty Server IO #0/ERROR]: io.netty.handler.codec.EncoderException: String too big (was 33168 bytes encoded, max 32767)
-[20:15:36] [Netty Server IO #2/ERROR]: io.netty.handler.codec.EncoderException: String too big (was 33168 bytes encoded, max 32767)
-[20:15:36] [Netty Server IO #4/ERROR]: io.netty.handler.codec.EncoderException: String too big (was 33168 bytes encoded, max 32767)
-[20:15:37] [Netty Server IO #6/ERROR]: io.netty.handler.codec.EncoderException: String too big (was 33168 bytes encoded, max 32767)
-[20:15:37] [Netty Server IO #0/ERROR]: io.netty.handler.codec.EncoderException: String too big (was 33168 bytes encoded, max 32767)
-[20:16:05] [Netty Server IO #2/ERROR]: io.netty.handler.codec.EncoderException: String too big (was 33168 bytes encoded, max 32767)
-[20:16:05] [Netty Server IO #4/ERROR]: io.netty.handler.codec.EncoderException: String too big (was 33168 bytes encoded, max 32767)
-[20:16:06] [Netty Server IO #6/ERROR]: io.netty.handler.codec.EncoderException: String too big (was 33168 bytes encoded, max 32767)
-[20:16:06] [Netty Server IO #0/ERROR]: io.netty.handler.codec.EncoderException: String too big (was 33168 bytes encoded, max 32767)
-[20:16:06] [Netty Server IO #1/ERROR]: io.netty.handler.codec.EncoderException: String too big (was 33168 bytes encoded, max 32767)
-[20:16:06] [Netty Server IO #3/ERROR]: io.netty.handler.codec.EncoderException: String too big (was 33168 bytes encoded, max 32767)
-[20:16:17] [Netty Server IO #5/ERROR]: io.netty.handler.codec.EncoderException: String too big (was 33168 bytes encoded, max 32767)
-[20:16:18] [Netty Server IO #7/ERROR]: io.netty.handler.codec.EncoderException: String too big (was 33168 bytes encoded, max 32767)
-[20:16:18] [Netty Server IO #1/ERROR]: io.netty.handler.codec.EncoderException: String too big (was 33168 bytes encoded, max 32767)
-[20:16:18] [Netty Server IO #3/ERROR]: io.netty.handler.codec.EncoderException: String too big (was 33168 bytes encoded, max 32767)
-[20:16:18] [Netty Server IO #5/ERROR]: io.netty.handler.codec.EncoderException: String too big (was 33168 bytes encoded, max 32767)
-[20:16:19] [Netty Server IO #7/ERROR]: io.netty.handler.codec.EncoderException: String too big (was 33168 bytes encoded, max 32767)
-[20:16:19] [Netty Server IO #1/ERROR]: io.netty.handler.codec.EncoderException: String too big (was 33168 bytes encoded, max 32767)
-[20:16:19] [Netty Server IO #3/ERROR]: io.netty.handler.codec.EncoderException: String too big (was 33168 bytes encoded, max 32767)
-[20:16:19] [Netty Server IO #5/ERROR]: io.netty.handler.codec.EncoderException: String too big (was 33168 bytes encoded, max 32767)
-[20:16:19] [Netty Server IO #7/ERROR]: io.netty.handler.codec.EncoderException: String too big (was 33168 bytes encoded, max 32767)
-[20:16:19] [Netty Server IO #1/ERROR]: io.netty.handler.codec.EncoderException: String too big (was 33168 bytes encoded, max 32767)
-[20:16:20] [Netty Server IO #3/ERROR]: io.netty.handler.codec.EncoderException: String too big (was 33168 bytes encoded, max 32767)
-[20:16:20] [Netty Server IO #4/ERROR]: io.netty.handler.codec.EncoderException: String too big (was 33168 bytes encoded, max 32767)
-[20:16:20] [Netty Server IO #6/ERROR]: io.netty.handler.codec.EncoderException: String too big (was 33168 bytes encoded, max 32767)
-[20:16:20] [Netty Server IO #0/ERROR]: io.netty.handler.codec.EncoderException: String too big (was 33168 bytes encoded, max 32767)
-[20:16:20] [Netty Server IO #2/ERROR]: io.netty.handler.codec.EncoderException: String too big (was 33168 bytes encoded, max 32767)
-[20:16:20] [Netty Server IO #3/ERROR]: io.netty.handler.codec.EncoderException: String too big (was 33168 bytes encoded, max 32767)
-[20:16:20] [Netty Server IO #5/ERROR]: io.netty.handler.codec.EncoderException: String too big (was 33168 bytes encoded, max 32767)
-[20:16:20] [Netty Server IO #7/ERROR]: io.netty.handler.codec.EncoderException: String too big (was 33168 bytes encoded, max 32767)
-[20:16:21] [Netty Server IO #1/ERROR]: io.netty.handler.codec.EncoderException: String too big (was 33168 bytes encoded, max 32767)
-[20:16:21] [Netty Server IO #3/ERROR]: io.netty.handler.codec.EncoderException: String too big (was 33168 bytes encoded, max 32767)
-[20:16:21] [Netty Server IO #5/ERROR]: io.netty.handler.codec.EncoderException: String too big (was 33168 bytes encoded, max 32767)
-[20:16:21] [Netty Server IO #7/ERROR]: io.netty.handler.codec.EncoderException: String too big (was 33168 bytes encoded, max 32767)
-[20:16:21] [Netty Server IO #1/ERROR]: io.netty.handler.codec.EncoderException: String too big (was 33168 bytes encoded, max 32767)
-[20:16:26] [User Authenticator #1/INFO]: UUID of player StevenIsBoss is 5d03f5bd-36ad-433b-8bff-4f5c22d3b436
-[20:16:27] [Server thread/INFO]: StevenIsBoss[/192.168.1.1:57635] logged in with entity id 963 at (-118.5, 15.0, -767.5)
-[20:16:27] [Server thread/INFO]: StevenIsBoss joined the game
-[20:17:06] [Server thread/INFO]: [StevenIsBoss: Set own game mode to Creative Mode]
-[20:17:16] [Server thread/INFO]: You must specify which player you wish to perform this action on.
-[20:17:40] [Server thread/INFO]: Player 'S\tevenIsBoss' cannot be found
-[20:17:45] [Server thread/INFO]: Set StevenIsBoss's game mode to Creative Mode
-[20:18:53] [Server thread/INFO]: StevenIsBoss lost connection: Disconnected
-[20:18:53] [Server thread/INFO]: StevenIsBoss left the game
-[20:18:53] [Netty Server IO #4/ERROR]: io.netty.handler.codec.EncoderException: String too big (was 33168 bytes encoded, max 32767)
+[21:31:20] [Server thread/INFO]: Loading properties
+[21:31:20] [Server thread/INFO]: Default game type: SURVIVAL
+[21:31:20] [Server thread/INFO]: Generating keypair
+[21:31:21] [Server thread/INFO]: Starting Minecraft server on 192.168.1.82:25565
+[21:31:21] [Server thread/INFO]: Using default channel type
+[21:31:21] [Server thread/WARN]: **** FAILED TO BIND TO PORT!
+[21:31:21] [Server thread/WARN]: The exception was: java.net.BindException: Cannot assign requested address: bind
+[21:31:21] [Server thread/WARN]: Perhaps a server is already running on that port?
+[21:31:21] [Server thread/INFO]: Stopping server
+[21:31:21] [Server Shutdown Thread/INFO]: Stopping server
